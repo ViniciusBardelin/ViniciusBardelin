@@ -1,5 +1,5 @@
 <h1 align="center">Prazer, Vinicius Bardelin.</h1>
-<h3 align="center">Tenho muito interesse na área de Aprendizado Estatístico! Atualmente busco entender todo o ciclo dos dados em uma empresa, da extração até a implantação de modelos.</h3>
+<h3 align="center">Tenho interesse na área de Aprendizado Estatístico!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
