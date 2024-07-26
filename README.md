@@ -2,7 +2,7 @@
 
 Me chamo Vinicius, sou estudante de estatística na UNICAMP. Atualmente, fiz mais da metade do curso e estou fazendo matérias para obtenção do certificado de Ciência de Dados oferecido pela própria UNICAMP.
 
-Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano. Participei de três projetos de Machine Learning, utilizando Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Além disso, tenho conhecimento em R e SQL.
+Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano. Participei de três projetos de Machine Learning, utilizando Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Além disso, tenho conhecimento em R, SQL e Power BI.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
