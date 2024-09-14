@@ -4,7 +4,7 @@ Me chamo Vinicius, sou estudante de Estatística na UNICAMP. Atualmente, já com
 
 Atualmente, sou estagiário de Estatística na CPFL Energia, onde aplico várias técnicas estatísticas no Projeto SAPiens da empresa, entrando em contato com todas as áreas de negócios. Além disso, sou aluno de Iniciação Científica, com foco em abordagens híbridas de modelos estatísticos de séries temporais e redes neurais recorrentes, visando a previsão de risco em criptoativos.
 
-Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano, participando de três projetos de Machine Learning. Nessas experiências, utilizei Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Também tenho conhecimentos em R, SQL e Power BI. Também participei de dois congressos científicos da UNICAMP: ESAMP (Escola de Amostragem e Métodos de Pesquisa); AIMMM 2024 (Artificial Intelligence foi Malaria Modelling).
+Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano, participando de três projetos de Machine Learning. Nessas experiências, utilizei Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Também tenho conhecimentos em R, SQL e Power BI. Por fim, também participei de dois congressos científicos da UNICAMP: ESAMP (Escola de Amostragem e Métodos de Pesquisa) e AIMMM 2024 (Artificial Intelligence foi Malaria Modelling).
 
 
 
