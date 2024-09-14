@@ -1,8 +1,12 @@
 <h1 align="center">Olá, muito prazer!</h1>
 
-Me chamo Vinicius, sou estudante de estatística na UNICAMP. Atualmente, fiz mais da metade do curso e estou fazendo matérias para obtenção do certificado de Ciência de Dados oferecido pela própria UNICAMP.
+Me chamo Vinicius, sou estudante de Estatística na UNICAMP. Atualmente, já completei 75% do curso e estou cursando disciplinas para obtenção do certificado de Ciência de Dados oferecido pela própria universidade.
 
-Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano. Participei de três projetos de Machine Learning, utilizando Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Além disso, tenho conhecimento em R, SQL e Power BI.
+Atualmente, sou estagiário de Estatística na CPFL Energia, onde aplico várias técnicas estatísticas no Projeto SAPiens da empresa, entrando em contato com todas as áreas de negócios. Além disso, sou aluno de Iniciação Científica, com foco em abordagens híbridas de modelos estatísticos de séries temporais e redes neurais recorrentes, visando a previsão de risco em criptoativos.
+
+Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano, participando de três projetos de Machine Learning. Nessas experiências, utilizei Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Também tenho conhecimentos em R, SQL e Power BI. Também participei de dois congressos científicos da UNICAMP: ESAMP (Escola de Amostragem e Métodos de Pesquisa); AIMMM 2024 (Artificial Intelligence foi Malaria Modelling).
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
