@@ -1,12 +1,10 @@
 <h1 align="center">Olá, muito prazer!</h1>
 
-Me chamo Vinicius, sou estudante de Estatística na UNICAMP. Atualmente, já completei 90% do curso e obtive o certificado de Ciência de Dados, oferecido pelo Instituto de Matemática, Estatística e Computação Científica (IMECC) - UNICAMP.
+Me chamo Vinicius, sou estudante de Estatística na UNICAMP. Atualmente, já completei 95% do curso e obtive o certificado de Ciência de Dados, oferecido pelo Instituto de Matemática, Estatística e Computação Científica (IMECC) - UNICAMP.
 
-Atualmente, sou estagiário em Risco de Crédito no Itau Unibanco, na squad de projeção de atrasos da carteira do varejo. Além disso, sou aluno de Iniciação Científica, com foco em abordagens híbridas de modelos estatísticos de séries temporais e redes neurais recorrentes, visando a previsão de risco em criptoativos.
+Sou estagiário em Risco de Crédito no Itaú Unibanco. Além disso, tenho feito pesquisa em abordagens híbridas de modelos estatísticos de séries temporais e redes neurais recorrentes, no contexto de risco de mercado. Recebi Menção Honrosa no Congresso de Iniciação Científica da UNICAMP de 2025.
 
-Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano, participando de três projetos de Machine Learning. Nessas experiências, utilizei Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Também tenho conhecimentos em R, SQL e Power BI. Participei de dois congressos científicos organizados pela UNICAMP. O primeiro foi a Escola de Amostragem e Métodos de Pesquisa (ESAMP). O segundo foi o AIMM 2024 (Artificial Intelligence for Malaria Modelling), no qual pude aprofundar meus conhecimentos sobre a aplicação de inteligência artificial e machine learning na modelagem de doenças.
-
-
+Como experiência extracurricular, fiz parte da Quanta Jr. (empresa júnior) durante 1 ano, participando de três projetos de Machine Learning. Nessas experiências, utilizei Python e as principais bibliotecas de ciência de dados, como pandas e scikit-learn. Também tenho conhecimentos em R, SQL, Power BI/Amazon QuickSight. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
